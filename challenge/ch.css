@@ -1,0 +1,11 @@
+body{
+    background: wood.jpg;
+    text-align: center;
+    ul{
+        list-style: ;
+
+        display: flex;
+
+    }
+    li{flex:20% 1;}
+}
