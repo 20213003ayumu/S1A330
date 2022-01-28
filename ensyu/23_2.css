@@ -61,7 +61,7 @@ input[type="submit"]{
     color: #fff;
     font-size: 14px;
 }
-@media screen and(max-width: 768Px){
+@media screen and (max-width: 768Px){
     .formltem{display: block;}
     dt{
         text-align: left;
